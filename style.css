@@ -1,0 +1,136 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 0px 5px 30px;
+	background-color:#dddddd;
+	overflow:hidden; 	font-family: 'Pontano Sans', sans-serif;
+}
+
+
+
+li {
+	float:left;
+}
+
+
+
+
+li a {
+	display: block;
+	width:100px;
+	color:gray;
+	padding:14px 16px;
+	text-decoration:none;
+}
+
+
+
+
+li a:hover {
+	color: black;
+}
+
+
+
+
+.wrapper {
+	width: 940px;
+	margin: 20px auto 20px auto;
+ 	border: 2px solid #000000;
+	background-color: #ffffff;
+}
+
+
+
+
+
+
+body{
+	background-image: url(photos/background5.jpg);
+}
+
+
+
+
+
+
+.title{
+	font-family: 'Cinzel', serif;
+	padding: 10px 0px 10px 20px;
+}
+
+
+
+
+
+
+.profilepic{
+	height:400px;
+	border-radius:100%;
+	border: solid black 12px;
+	margin: 20px 10px 10px 20px;
+	float:left;
+
+}
+	
+
+
+
+
+
+h2 {
+	font-family: 'Sorts Mill Goudy', serif;
+		margin-left: 20px;
+	text-decoration: underline;
+	
+	
+}
+
+
+
+
+p { padding: 0px 20px 20px 20px;	font-family: 'Sorts Mill Goudy', serif;	  text-indent: 50px;}
+
+
+
+
+footer {	font-size: 14px;	padding: 20px 0px 20px 20px;	font-family: 'Sorts Mill Goudy', serif;	color: gray; 	background-color: #dddddd;}
+
+
+.homepage {
+	style: center;
+	font-family: 'Cinzel';
+}
+
+
+.banner {
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+}
+
+
+.enter {
+	position:absolute;
+	left:45%;
+	top:35%;
+	margin:-75px 0 0 -135px;
+}
+
+
+.websiteenter { 
+	text-align:center;
+	font-size: 50px;
+	margin: 0px 0px 0px -50px;
+	color: Gray;
+}
+iframe { padding: 20px 0px 0px 150px;}
+.videostuff { text-align:center;}
+.one { height:400px; margin: 25px 25px 25px 125px; border: solid black 2px; }
+.two { height:300px;  border:solid black 2px; margin-bottom: 75px; transform:rotate(90deg);}
+.three { height:400px; margin: 0px 25px 25px 70px; border: solid black 2px; }
+.four { height:400px; margin: 0px 25px 25px 30px; border: solid black 2px; }
+.five { height:400px; margin: 0px 25px 25px 30px; border: solid black 2px; }
+.six { height:400px; margin: 0px 25px 25px 70px; border: solid black 2px; }
+.seven { height:400px; margin: 0px 25px 25px 30px; border: solid black 2px; }
+.eight { height:400px; margin:auto; margin-bottom:25px; display:block; border: solid black 2px; transform:rotate(180deg);}
+.nine { height:400px; margin: 0px 25px 25px 30px; border: solid black 2px; }
